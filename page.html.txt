@@ -1,0 +1,286 @@
+<html>
+<head>
+<title>Nasib Islam Aurko</title>
+</head>
+<body background="Picture.jpg">
+<h1 style="font size:60%;"></h1>
+ <ol type="1">
+       <li><p style="color:green;"><i>Chemistry 1st paper</i></p>
+           <ul type="square">
+                <a href="https://drive.google.com/drive/folders/1LXhBy3r7QkYmV6LTkmym28kEUF71X1hB?usp=sharing"><i>Get the PDF</i></a>
+           </ul> 
+       </li>
+   <marquee direction="left"> <img src="Chemistry.jfif" width="120px" height="120px" Alt="missing image"></marquee>
+        <table border="2">
+             <caption><b><i>Quick View</i></b></caption>
+        <tr align="centre">
+           <th ><b><i>Name of Subject</i></b></th>
+           <th><b><i> Chapter No</i></b></th>
+           <th><b><i>Chapter Name</i></b></th>
+           <th><b><i>Chapter link</i></b></th>
+        </tr>
+        <tr align="centre">
+           <th Rowspan="5"><b><i>Chemistry 1st paper</i></b></th>
+            <td>01</td>
+            <td>Safe Use of Laboratory</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="Centre">
+            <td>02</td>
+            <td>Qualitative Chemistry</td>
+            <td><a href="https://drive.google.com/file/d/1yrUPvqKt8JZq7-k8TASg_7zme0YZd36v/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>03</td>
+            <td>Periodic properties & Bondings in Elements</td>
+            <td><a href="https://drive.google.com/file/d/1E8fR7Oam0EDowe3Z38A-rBs8vahhC8GU/view?usp=sharing"><i>Click here</i></a></td>
+       </tr>
+        <tr align="centre">
+            <td>04</td>
+            <td>Chemiscal Changes</td>
+            <td><a href="https://drive.google.com/file/d/1eJgcT20cXftk--7rmeAF8CPV7vGyaCw5/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align"centre">
+            <td>05</td>
+            <td>Vocational Chemiatry</td>
+            <td><a href="https://drive.google.com/file/d/1lYqFNlZFjESqqBijXootKmfhM8MP1weQ/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+      </table> 
+       <li><p style="color:red;"><i>Chemistry 2nd paper</i></p>
+           <ul type="square">
+                <a href="https://drive.google.com/drive/folders/1LXhBy3r7QkYmV6LTkmym28kEUF71X1hB?usp=sharing"><i>Get the PDF</i></a>
+           </ul> 
+       </li>
+    <img src="Chemistry1.jpg" width="120px" height="120px" Alt="missing image"><br>
+             <caption><b><i>Quick View</i></b></caption>
+     <table border="2">
+        <tr align="centre">
+           <th ><b><i>Name of Subject</i></b></th>
+           <th><b><i> Chapter No</i></b></th>
+           <th><b><i>Chapter Name</i></b></th>
+           <th><b><i>Chapter link</i></b></th>
+        </tr>
+        <tr align="centre">
+           <th Rowspan="5"><b><i>Chemistry 2nd paper</i></b></th>
+            <td>01</td>
+            <td>Environmental Chemistry</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="Centre">
+            <td>02</td>
+            <td>organic Chemistry</td>
+            <td><a href="https://drive.google.com/file/d/1yrUPvqKt8JZq7-k8TASg_7zme0YZd36v/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>03</td>
+            <td>Quantitative Chemistry</td>
+            <td><a href="https://drive.google.com/file/d/1E8fR7Oam0EDowe3Z38A-rBs8vahhC8GU/view?usp=sharing"><i>Click here</i></a></td>
+       </tr>
+        <tr align="centre">
+            <td>04</td>
+            <td>Electrochemistry</td>
+            <td><a href="https://drive.google.com/file/d/1eJgcT20cXftk--7rmeAF8CPV7vGyaCw5/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align"centre">
+            <td>05</td>
+            <td>Economic Chemiatry</td>
+            <td><a href="https://drive.google.com/file/d/1lYqFNlZFjESqqBijXootKmfhM8MP1weQ/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+      </table>
+       <li><p style="color:red;"><p style="color:green;"><i> Information & Communication Technology</i></p></p>
+            <ul type="square">
+                 <a href="https://drive.google.com/drive/folders/1H0wq6N-mYYwiA3p1tm8FOV4AHRhpKtjy?usp=sharing"><i>Get the PDF</i></a>
+            </ul>
+       </li>
+     <img src="ICT.jfif" width="120px" height="120px"  Alt="missing image"><br>
+             <caption><b><i>Quick View</i></b></caption>
+     <table border="2">
+        <tr align="centre">
+           <th><b><i>Name of Subject</i></b></th>
+           <th><b><i> Chapter No</i></b></th>
+           <th><b><i>Chapter Name</i></b></th>
+           <th><b><i>Chapter link</i></b></th>
+        </tr>
+        <tr align="centre">
+           <th Rowspan="4"><b><i>Information & Communication technology</i></b></th>
+            <td>03</td>
+            <td>Number System & Digital Devices</td>
+            <td><a href="https://drive.google.com/file/d/1X4G1AggkQnQlu6Wp_SVxyscIj-egDbNN/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="Centre">
+            <td>04</td>
+            <td>Web Design & HTML</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>05</td>
+            <td>Programming Language</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>06</td>
+            <td>Database Management System</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+      </table>
+
+       <li><p style="color:red;"><i>Physics 1st paper</i></p>
+            <ul type="square">
+                 <a href="https://drive.google.com/drive/folders/1mrwYC0twRiNTxOoK-FiCHKgZXmwrpl--?usp=sharing"><i>Get the PDF</i></a>
+            </ul> 
+       </li>
+    <img src="Physics.jfif" width="120px" height="120px"  Alt="missing image"><br>
+             <caption><b><i>Quick View</i></b></caption>
+     <table border="2">
+        <tr align="centre">
+           <th><b><i>Name of Subject</i></b></th>
+           <th><b><i> Chapter No</i></b></th>
+           <th><b><i>Chapter Name</i></b></th>
+           <th><b><i>Chapter link 1</i></b></th>
+           <th><b><i>Chapter link 2</i></b></th>
+        </tr>
+        <tr align="centre">
+           <th Rowspan="9"><b><i>Physics 1st Paper</i></b></th>
+            <td>02</td>
+            <td>Vector</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="Centre">
+            <td>03</td>
+            <td>Dynamics</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>04</td>
+            <td>Newtonian Mechanics</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>05</td>
+            <td>Work,Energy & Power</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align"centre">
+            <td>06</td>
+            <td>Gravitation & Gravity</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>            
+        </tr>
+        <tr align="centre">
+            <td>07</td>
+            <td>Structural Properties of Matter</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="Centre">
+            <td>08</td>
+            <td>Perodic Motion</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>09</td>
+            <td>wave</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>10</td>
+            <td>Ideal gas & kinetic theory of Gas</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        
+      </table> 
+
+       <li><p style="color:green;"><i>Physics 2nd paper</i></p>
+             <ul type="square">
+                 <a href="https://drive.google.com/drive/folders/1xungo9qrCQibbvHjGhwLITpSAIQo5xVX?usp=sharing"><i>Get the PDF</i></a>
+             </ul>
+        </li>
+    <img src="Physics 1.jpg" width="120px" height="120px"  Alt="missing image"><br>
+             <caption><b><i>Quick View</i></b></caption>
+     <table border="2">
+        <tr align="centre">
+           <th><b><i> Name of Subject</i></b></th>
+           <th><b><i> Chapter No</i></b></th>
+           <th><b><i>Chapter Name</i></b></th>
+           <th><b><i>Chapter link 1</i></b></th>
+           <th><b><i>Chapter link 2</i></b></th>
+        </tr>
+        <tr align="centre">
+            <th Rowspan="11"><b><i>Physics 2nd paper</i></b></th>
+            <td>01</td>
+            <td>Thermodynamics</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="Centre">
+            <td>02</td>
+            <td>Static Electricity</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>03</td>
+            <td>Current Electricity</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>04</td>
+            <td>Magnetic Effects of Electric Current & Magnetism</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align"centre">
+            <td>05</td>
+            <td>Electric Induction & Alternating Current</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>             
+        <tr align="centre">
+            <td>06</td>
+            <td>Geometrical Optics</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="Centre">
+            <td>07</td>
+            <td>Physical Optics</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>08</td>
+            <td>Beginning of Modern Physics</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>09</td>
+            <td>Atomic Model & Nuclear Physics</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align"centre">
+            <td>10</td>
+            <td>Semiconductor & Electronics</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+        </tr>
+        <tr align="centre">
+            <td>11</td>
+            <td>Astronomy</td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+            <td><a href="https://drive.google.com/file/d/19H7pl6KO0D6JkkoowTOQ-n5IhWI0kJrV/view?usp=sharing"><i>Click here</i></a></td>
+         </tr>
+      </table> 
+   </ol>
+</body>
+</html>
